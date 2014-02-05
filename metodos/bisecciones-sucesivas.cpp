@@ -1,5 +1,6 @@
 /* =================================== *
  *  Patricio Marcelo Beltrán Saldívar  *
+ *  Roel Castaño                       *
  *  Mac OS X 10.9.1 Mavericks          *
  *  Métodos numéricos en la Ingeniería *
  *  Método de Bisecciones Sucesivas    *
